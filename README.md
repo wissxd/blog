@@ -63,18 +63,18 @@
 ####admin模块
 
     /                   首页
-  用户管理
+    用户管理
     /user               用户列表
-  分类管理
+    分类管理
     /category           分类列表
     /category/add       分类添加
     /category/edit      分类修改
     /category/delete    分类删除
-  内容管理
+    内容管理
     /content            内容列表
     /content/add        内容添加
     /content/edit       内容编辑
     /content/delete     内容删除
-  评论管理
+    评论管理
     /comment            评论列表
     /comment/delete     评论删除
