@@ -1,0 +1,19 @@
+{
+  "name": "blog3",
+  "version": "1.0.0",
+  "description": "IJOB - 科技生活分享平台",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "WangXiaoDong",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "cookies": "^0.6.2",
+    "express": "^4.14.1",
+    "markdown": "^0.5.0",
+    "mongoose": "^4.8.2",
+    "swig": "^1.4.2"
+  }
+}
